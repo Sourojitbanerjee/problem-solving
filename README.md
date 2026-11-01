@@ -1,13 +1,7 @@
-# problem-solving
+## LeetCode Statistics
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/Sourojitbanerjee/problem-solving/tree/master/0027-remove-element) |
-## Two Pointers
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/Sourojitbanerjee/problem-solving/tree/master/0027-remove-element) |
-<!---LeetCode Topics End-->
+<p align="center">
+  <a href="https://leetcode.com/u/iamsouro/">
+    <img src="https://leetcard.jacoblin.cool/iamsouro?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
